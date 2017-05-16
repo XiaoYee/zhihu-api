@@ -1,7 +1,7 @@
 from zhihu import Answer
 import unittest
 import time
-
+# fuck you
 
 class AnswerTestCase(unittest.TestCase):
     def test_vote_up_with_id(self):
